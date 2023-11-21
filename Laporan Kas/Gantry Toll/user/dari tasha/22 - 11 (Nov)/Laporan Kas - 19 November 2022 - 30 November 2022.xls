@@ -1,0 +1,1128 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="WPS Office ET">
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2022-12-07T13:41:36</o:Created>
+     <o:LastAuthor>USER</o:LastAuthor>
+     <o:LastSaved>2022-12-07T13:43:00</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:ICV dt:dt="string">B872A50F0D43479CAF9D33F92C6E41D9</o:ICV>
+     <o:KSOProductBuildVer dt:dt="string">1033-11.2.0.11417</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:1,00in 0,75in 1,00in 0,75in;
+	mso-header-margin:0,50in;
+	mso-footer-margin:0,50in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font3
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font4
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font5
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font6
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font7
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font8
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font9
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font10
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font11
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font12
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font13
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font14
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font15
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font16
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font17
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font18
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"Normal";
+	mso-style-id:0;}
+.style16
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent1";}
+.style17
+	{mso-number-format:"_\(* \#\,\#\#0\.00_\)\;_\(* \\\(\#\,\#\#0\.00\\\)\;_\(* \0022-\0022??_\)\;_\(\@_\)";
+	mso-style-name:"Comma";
+	mso-style-id:3;}
+.style18
+	{mso-number-format:"_\(* \#\,\#\#0_\)\;_\(* \\\(\#\,\#\#0\\\)\;_\(* \0022-\0022_\)\;_\(\@_\)";
+	mso-style-name:"Comma [0]";
+	mso-style-id:6;}
+.style19
+	{mso-number-format:"_-\0022Rp\0022* \#\,\#\#0_-\;\\-\0022Rp\0022* \#\,\#\#0_-\;_-\0022Rp\0022* \0022-\0022??_-\;_-\@_-";
+	mso-style-name:"Currency [0]";
+	mso-style-id:7;}
+.style20
+	{mso-number-format:"_-\0022Rp\0022* \#\,\#\#0\.00_-\;\\-\0022Rp\0022* \#\,\#\#0\.00_-\;_-\0022Rp\0022* \0022-\0022??_-\;_-\@_-";
+	mso-style-name:"Currency";
+	mso-style-id:4;}
+.style21
+	{mso-number-format:"0%";
+	mso-style-name:"Percent";
+	mso-style-id:5;}
+.style22
+	{color:#0000FF;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri;
+	mso-style-name:"Hyperlink";
+	mso-style-id:8;}
+.style23
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent4";}
+.style24
+	{color:#800080;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri;
+	mso-style-name:"Followed Hyperlink";
+	mso-style-id:9;}
+.style25
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"Check Cell";}
+.style26
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"Heading 2";}
+.style27
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"Note";}
+.style28
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent3";}
+.style29
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Warning Text";}
+.style30
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent2";}
+.style31
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"Title";}
+.style32
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"CExplanatory Text";}
+.style33
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"Heading 1";}
+.style34
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"Heading 3";}
+.style35
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"Heading 4";}
+.style36
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"Input";}
+.style37
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent3";}
+.style38
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Good";}
+.style39
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"Output";}
+.style40
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent1";}
+.style41
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"Calculation";}
+.style42
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"Linked Cell";}
+.style43
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"Total";}
+.style44
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Bad";}
+.style45
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Neutral";}
+.style46
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent1";}
+.style47
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent5";}
+.style48
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent1";}
+.style49
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent2";}
+.style50
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent2";}
+.style51
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent6";}
+.style52
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent2";}
+.style53
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent3";}
+.style54
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent3";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent4";}
+.style56
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent4";}
+.style57
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent4";}
+.style58
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent5";}
+.style59
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent5";}
+.style60
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent5";}
+.style61
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	white-space:normal;
+	font-weight:700;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-font-charset:134;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-weight:700;
+	mso-font-charset:134;}
+.xl68
+	{mso-style-parent:style0;
+	mso-number-format:"dd/mm/yyyy";
+	white-space:normal;
+	mso-font-charset:134;}
+.xl69
+	{mso-style-parent:style0;
+	mso-number-format:"\#\,\#\#0";
+	white-space:normal;
+	mso-font-charset:134;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>Laporan Kas - 19 November 2022 </x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>300</x:DefaultRowHeight>
+        <x:StandardWidth>2340</x:StandardWidth>
+        <x:Selected/>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>11</x:ActiveCol>
+          <x:ActiveRow>16</x:ActiveRow>
+          <x:RangeSelection>L17</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>9795</x:WindowHeight>
+     <x:WindowWidth>24000</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple">
+  <table width="885" border="0" cellpadding="0" cellspacing="0" style='width:663.75pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="29" style='mso-width-source:userset;mso-width-alt:1060;'/>
+   <col width="80" style='mso-width-source:userset;mso-width-alt:2925;'/>
+   <col width="71,33" span="3" style='mso-width-source:userset;mso-width-alt:2608;'/>
+   <col width="288" style='mso-width-source:userset;mso-width-alt:10532;'/>
+   <col width="71" style='mso-width-source:userset;mso-width-alt:2596;'/>
+   <col width="123" style='mso-width-source:userset;mso-width-alt:4498;'/>
+   <col width="16" style='mso-width-source:userset;mso-width-alt:585;'/>
+   <col width="64" style='width:48,00pt;'/>
+   <tr height="40" style='height:30.00pt;mso-height-source:userset;mso-height-alt:600;'>
+    <td class="xl65" height="40" width="109" colspan="2" style='height:30.00pt;width:81.75pt;border-right:none;border-bottom:none;' x:str>Proyek :</td>
+    <td class="xl65" width="502" colspan="4" style='width:376.50pt;border-right:none;border-bottom:none;' x:str>[I.22.010-E] Multi-Lane Flow Toll Collection In Indonesia - Gantry Toll (Pilot Project ID 128)</td>
+    <td class="xl66" width="210" colspan="3" style='width:157.50pt;border-right:none;border-bottom:none;'></td>
+    <td width="64" style='width:48.00pt;'></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;mso-height-source:userset;mso-height-alt:300;'>
+    <td class="xl65" height="20" colspan="2" style='height:15.00pt;border-right:none;border-bottom:none;' x:str>Periode :</td>
+    <td class="xl65" colspan="4" style='border-right:none;border-bottom:none;' x:str>19 November 2022 - 30 November 2022</td>
+    <td class="xl65" colspan="3" style='border-right:none;border-bottom:none;' x:str>Total (Rp) : <font class="font1">3.869.120</font></td>
+    <td></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl67" height="20" style='height:15.00pt;' x:str>No</td>
+    <td class="xl67" x:str>Tanggal</td>
+    <td class="xl67" x:str>CC 1</td>
+    <td class="xl67" x:str>CC 2</td>
+    <td class="xl67" x:str>CC 3</td>
+    <td class="xl67" x:str>Deskripsi</td>
+    <td class="xl67" x:str>Nominal</td>
+    <td class="xl67" x:str>ID/Building/ Area</td>
+    <td class="xl67" x:str>-</td>
+    <td></td>
+   </tr>
+   <tr height="60" style='height:45.00pt;'>
+    <td class="xl66" height="60" align="right" style='height:45.00pt;' x:num>1</td>
+    <td class="xl68" align="right" x:num="44888,">23/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.4.0</td>
+    <td class="xl66" x:str>TOP UP BCA 0145000628793040/EXPANDER B 2295 UKX/OPERASIONAL EKO CEK LOKASI KE CIPANAS</td>
+    <td class="xl69" align="right" x:num="100000,">100000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>2</td>
+    <td class="xl68" align="right" x:num="44890,">25/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.4.0</td>
+    <td class="xl66" x:str>SPBU 3416937/EXPANDER B2295 UKX/OPERASIONAL EKO</td>
+    <td class="xl69" align="right" x:num="100000,">100000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>3</td>
+    <td class="xl68" align="right" x:num="44890,">25/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.4.0</td>
+    <td class="xl66" x:str>SPBU 3414413/EXPANDER B 2295 UKX/OPERASIONAL EKO KE KANTOR</td>
+    <td class="xl69" align="right" x:num="200000,">200000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>4</td>
+    <td class="xl68" align="right" x:num="44890,">25/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.1.0.0</td>
+    <td class="xl66" x:str>2.1.4.0</td>
+    <td class="xl66" x:str>PEMBELIAN KASUR UNTUK MESS EKO</td>
+    <td class="xl69" align="right" x:num="352500,">352500,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>5</td>
+    <td class="xl68" align="right" x:num="44891,">26/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.4.0</td>
+    <td class="xl66" x:str>SPBU 3413806/ EXPANDER B 2295 UKX/OPERASIONAL EKO</td>
+    <td class="xl69" align="right" x:num="100000,">100000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td x:str><span style='mso-spacerun:yes;'>&nbsp;</span></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>6</td>
+    <td class="xl68" align="right" x:num="44891,">26/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.4.0</td>
+    <td class="xl66" x:str>TOP UP BCA 0145000628793040/EXPANDER B 2295 UKX/ OPERASIONAL EKO</td>
+    <td class="xl69" align="right" x:num="100000,">100000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>7</td>
+    <td class="xl68" align="right" x:num="44891,">26/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.1.0.0</td>
+    <td class="xl66" x:str>2.1.3.0</td>
+    <td class="xl66" x:str>PERLENGKAPAN MESS KARYAWAN BARU DI CEGER</td>
+    <td class="xl69" align="right" x:num="260000,">260000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>8</td>
+    <td class="xl68" align="right" x:num="44893,">28/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.4.0</td>
+    <td class="xl66" x:str>SPBU 3414413/EXPANDER B 2295 UKX/OPERASIONAL KE KANTOR /EKO</td>
+    <td class="xl69" align="right" x:num="100000,">100000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>9</td>
+    <td class="xl68" align="right" x:num="44893,">28/11/2022</td>
+    <td class="xl66" x:str>3.0.0.0</td>
+    <td class="xl66" x:str>3.2.0.0</td>
+    <td class="xl66" x:str>3.2.2.0</td>
+    <td class="xl66" x:str>KONSUMSI BONGKAR MUAT RAMBU KARYAWAN</td>
+    <td class="xl69" align="right" x:num="222000,">222000,0</td>
+    <td class="xl66" x:str>KANTOR</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>10</td>
+    <td class="xl68" align="right" x:num="44893,">28/11/2022</td>
+    <td class="xl66" x:str>3.0.0.0</td>
+    <td class="xl66" x:str>3.2.0.0</td>
+    <td class="xl66" x:str>3.2.1.0</td>
+    <td class="xl66" x:str>PARKIR MOBIL MUAT RAMBU DAN PENGAMANAN BONGKAR MUATAN /SAPAM</td>
+    <td class="xl69" align="right" x:num="156000,">156000,0</td>
+    <td class="xl66" x:str>KANTOR</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>11</td>
+    <td class="xl68" align="right" x:num="44884,">19/11/2022</td>
+    <td class="xl66" x:str>3.0.0.0</td>
+    <td class="xl66" x:str>3.2.0.0</td>
+    <td class="xl66" x:str>3.2.2.0</td>
+    <td class="xl66" x:str>KOMPENSASI CUTI 3 BULAN ( EKO )</td>
+    <td class="xl69" align="right" x:num="1000000,">1000000,0</td>
+    <td class="xl66" x:str>KANTOR</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>12</td>
+    <td class="xl68" align="right" x:num="44895,">30/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.1.0</td>
+    <td class="xl66" x:str>PEMBELIAN TINTA PRINTER BT 5000 (MERAH,HITAM,KUNING,BIRU)</td>
+    <td class="xl69" align="right" x:num="602120,">602120,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>13</td>
+    <td class="xl68" align="right" x:num="44895,">30/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.6.0</td>
+    <td class="xl66" x:str>AIR MINUM KANTOR 4 @19.000</td>
+    <td class="xl69" align="right" x:num="76000,">76000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>14</td>
+    <td class="xl68" align="right" x:num="44895,">30/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.4.0</td>
+    <td class="xl66" x:str>PARKIR BELI AIR GALON PAK TONO (OB)B 3427 TZX</td>
+    <td class="xl69" align="right" x:num="3000,">3000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="60" style='height:45.00pt;'>
+    <td class="xl66" height="60" align="right" style='height:45.00pt;' x:num>15</td>
+    <td class="xl68" align="right" x:num="44895,">30/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.4.0</td>
+    <td class="xl66" x:str>PARKIR DI KANTOR /RUSH B2853UKZ P.KHAMID/RUSH B20630 UOB P.TATANG / MOTOR BEAT B 3427 TZX P.TONO (OB))</td>
+    <td class="xl69" align="right" x:num="250000,">250000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>16</td>
+    <td class="xl68" align="right" x:num="44895,">30/11/2022</td>
+    <td class="xl66" x:str>3.0.0.0</td>
+    <td class="xl66" x:str>3.2.0.0</td>
+    <td class="xl66" x:str>3.2.2.0</td>
+    <td class="xl66" x:str>BELI KOPI INDOCAFE MIX KANTOR</td>
+    <td class="xl69" align="right" x:num="124000,">124000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>17</td>
+    <td class="xl68" align="right" x:num="44895,">30/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.5.0</td>
+    <td class="xl66" x:str>1 BOX TOLAK ANGIN CAIR KANTOR</td>
+    <td class="xl69" align="right" x:num="38500,">38500,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>18</td>
+    <td class="xl68" align="right" x:num="44895,">30/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.3.0</td>
+    <td class="xl66" x:str>RINSO 770GR KANTOR</td>
+    <td class="xl69" align="right" x:num="23000,">23000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>19</td>
+    <td class="xl68" align="right" x:num="44895,">30/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.3.0</td>
+    <td class="xl66" x:str>LSN-RINSO 1.000 HIJAU (126 SCT) KANTOR</td>
+    <td class="xl69" align="right" x:num="10500,">10500,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>20</td>
+    <td class="xl68" align="right" x:num="44895,">30/11/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.3.0</td>
+    <td class="xl66" x:str>DUS-EK 500 KUNING KANTOR ( SABUN CUCI TANGAN )</td>
+    <td class="xl69" align="right" x:num="51500,">51500,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+    <td></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="29" style='width:22;'></td>
+     <td width="80" style='width:60;'></td>
+     <td width="71" style='width:54;'></td>
+     <td width="288" style='width:216;'></td>
+     <td width="71" style='width:53;'></td>
+     <td width="123" style='width:92;'></td>
+     <td width="16" style='width:12;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>

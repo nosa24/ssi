@@ -1,0 +1,1160 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="WPS Office ET">
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2023-01-10T08:38:20</o:Created>
+     <o:LastAuthor>USER</o:LastAuthor>
+     <o:LastSaved>2023-01-10T08:39:51</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:ICV dt:dt="string">2C2CA620F3F74175BC69E2764467D6CA</o:ICV>
+     <o:KSOProductBuildVer dt:dt="string">1057-11.2.0.11440</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:1,00in 0,75in 1,00in 0,75in;
+	mso-header-margin:0,50in;
+	mso-footer-margin:0,50in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font3
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font4
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font5
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font6
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font7
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font8
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font9
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font10
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font11
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font12
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font13
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font14
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font15
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font16
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font17
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font18
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"Normal";
+	mso-style-id:0;}
+.style16
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"Kepala 3";}
+.style17
+	{mso-number-format:"_\(* \#\,\#\#0_\)\;_\(* \\\(\#\,\#\#0\\\)\;_\(* \0022-\0022_\)\;_\(\@_\)";
+	mso-style-name:"Koma [0]";
+	mso-style-id:6;}
+.style18
+	{mso-number-format:"_\(* \#\,\#\#0\.00_\)\;_\(* \\\(\#\,\#\#0\.00\\\)\;_\(* \0022-\0022??_\)\;_\(\@_\)";
+	mso-style-name:"Koma";
+	mso-style-id:3;}
+.style19
+	{mso-number-format:"_-\0022Rp\0022* \#\,\#\#0_-\;\\-\0022Rp\0022* \#\,\#\#0_-\;_-\0022Rp\0022* \0022-\0022??_-\;_-\@_-";
+	mso-style-name:"Mata Uang [0]";
+	mso-style-id:7;}
+.style20
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Aksen4";}
+.style21
+	{mso-number-format:"_-\0022Rp\0022* \#\,\#\#0\.00_-\;\\-\0022Rp\0022* \#\,\#\#0\.00_-\;_-\0022Rp\0022* \0022-\0022??_-\;_-\@_-";
+	mso-style-name:"Mata Uang";
+	mso-style-id:4;}
+.style22
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"Sel Ditautkan";}
+.style23
+	{mso-number-format:"0%";
+	mso-style-name:"Persen";
+	mso-style-id:5;}
+.style24
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"Kepala 4";}
+.style25
+	{color:#0000FF;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri;
+	mso-style-name:"Hyperlink";
+	mso-style-id:8;}
+.style26
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Aksen6";}
+.style27
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"Total";}
+.style28
+	{color:#800080;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri;
+	mso-style-name:"Hyperlink yang Diikuti";
+	mso-style-id:9;}
+.style29
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Aksen2";}
+.style30
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"Catatan";}
+.style31
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Teks Peringatan";}
+.style32
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"Kepala 2";}
+.style33
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"Judul";}
+.style34
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Aksen3";}
+.style35
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Teks CExplanatory";}
+.style36
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"Kepala 1";}
+.style37
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Aksen2";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"input";}
+.style39
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"Output";}
+.style40
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"Perhitungan";}
+.style41
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"Cek Sel";}
+.style42
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Aksen5";}
+.style43
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Baik";}
+.style44
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Buruk";}
+.style45
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Netral";}
+.style46
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Aksen1";}
+.style47
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Aksen1";}
+.style48
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Aksen1";}
+.style49
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Aksen1";}
+.style50
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Aksen2";}
+.style51
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Aksen2";}
+.style52
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Aksen3";}
+.style53
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Aksen3";}
+.style54
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Aksen3";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Aksen4";}
+.style56
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Aksen4";}
+.style57
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Aksen4";}
+.style58
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Aksen5";}
+.style59
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Aksen5";}
+.style60
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Aksen5";}
+.style61
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Aksen6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Aksen6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Aksen6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	white-space:normal;
+	font-weight:700;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-font-charset:134;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-weight:700;
+	mso-font-charset:134;}
+.xl68
+	{mso-style-parent:style0;
+	mso-number-format:"dd/mm/yyyy";
+	white-space:normal;
+	mso-font-charset:134;}
+.xl69
+	{mso-style-parent:style0;
+	mso-number-format:"\#\,\#\#0";
+	white-space:normal;
+	mso-font-charset:134;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>Laporan Kas - 3 Desember 2022 -</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>300</x:DefaultRowHeight>
+        <x:StandardWidth>2340</x:StandardWidth>
+        <x:Selected/>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>11</x:ActiveCol>
+          <x:ActiveRow>18</x:ActiveRow>
+          <x:RangeSelection>L19</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>9795</x:WindowHeight>
+     <x:WindowWidth>23325</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple">
+  <table width="820,27" border="0" cellpadding="0" cellspacing="0" style='width:615.20pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="29" style='mso-width-source:userset;mso-width-alt:1060;'/>
+   <col width="80" style='mso-width-source:userset;mso-width-alt:2925;'/>
+   <col width="70,20" span="2" style='mso-width-source:userset;mso-width-alt:2567;'/>
+   <col width="79,87" style='mso-width-source:userset;mso-width-alt:2920;'/>
+   <col width="288" style='mso-width-source:userset;mso-width-alt:10532;'/>
+   <col width="64" style='width:48,00pt;'/>
+   <col width="123" style='mso-width-source:userset;mso-width-alt:4498;'/>
+   <col width="16" style='mso-width-source:userset;mso-width-alt:585;'/>
+   <tr height="40" style='height:30.00pt;mso-height-source:userset;mso-height-alt:600;'>
+    <td class="xl65" height="40" width="109" colspan="2" style='height:30.00pt;width:81.75pt;border-right:none;border-bottom:none;' x:str>Proyek :</td>
+    <td class="xl65" width="508,27" colspan="4" style='width:381.20pt;border-right:none;border-bottom:none;' x:str>[I.22.010-E] Multi-Lane Flow Toll Collection In Indonesia - Gantry Toll (Pilot Project ID 128)</td>
+    <td class="xl66" width="203" colspan="3" style='width:152.25pt;border-right:none;border-bottom:none;'></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;mso-height-source:userset;mso-height-alt:300;'>
+    <td class="xl65" height="20" colspan="2" style='height:15.00pt;border-right:none;border-bottom:none;' x:str>Periode :</td>
+    <td class="xl65" colspan="4" style='border-right:none;border-bottom:none;' x:str>3 Desember 2022 - 23 Desember 2022</td>
+    <td class="xl65" colspan="3" style='border-right:none;border-bottom:none;' x:str>Total (Rp) : 2.699.185</td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl67" height="20" style='height:15.00pt;' x:str>No</td>
+    <td class="xl67" x:str>Tanggal</td>
+    <td class="xl67" x:str>CC 1</td>
+    <td class="xl67" x:str>CC 2</td>
+    <td class="xl67" x:str>CC 3</td>
+    <td class="xl67" x:str>Deskripsi</td>
+    <td class="xl67" x:str>Nominal</td>
+    <td class="xl67" x:str>ID/Building/ Area</td>
+    <td class="xl67" x:str>-</td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>1</td>
+    <td class="xl68" align="right" x:num="44917,">22/12/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.1.0</td>
+    <td class="xl66" x:str>PENGIRIMAN BERKAS PKWT KE SBY P EDI</td>
+    <td class="xl69" align="right" x:num="22000,">22000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>2</td>
+    <td class="xl68" align="right" x:num="44916,">21/12/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.1.0</td>
+    <td class="xl66" x:str>PENGIRIMAN BERKAS PKWT P KHAMID DAN P ALI KE SBY</td>
+    <td class="xl69" align="right" x:num="22000,">22000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>3</td>
+    <td class="xl68" align="right" x:num="44913,">18/12/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.1.0</td>
+    <td class="xl66" x:str>SEPATU BOOT SAFTY KING P EDI</td>
+    <td class="xl69" align="right" x:num="300000,">300000,0</td>
+    <td class="xl66" x:str>KANTOR</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>4</td>
+    <td class="xl68" align="right" x:num="44911,">16/12/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.6.0</td>
+    <td class="xl66" x:str>AQUA GELAS P EKO</td>
+    <td class="xl69" align="right" x:num="20000,">20000,0</td>
+    <td class="xl66" x:str>KANTOR</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>5</td>
+    <td class="xl68" align="right" x:num="44909,">14/12/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.3.0</td>
+    <td class="xl66" x:str>BAYAR SAMPAH MESS P EKO</td>
+    <td class="xl69" align="right" x:num="50000,">50000,0</td>
+    <td class="xl66" x:str>KANTOR</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>6</td>
+    <td class="xl68" align="right" x:num="44903,">08/12/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.3.0</td>
+    <td class="xl66" x:str>LAMPU HAOMEN 20 WATT MESS KARYAWAN P EKO</td>
+    <td class="xl69" align="right" x:num="20000,">20000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>7</td>
+    <td class="xl68" align="right" x:num="44898,">03/12/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.3.0</td>
+    <td class="xl66" x:str>PEMBAYARAN LISTRIK MESS KARYAWAN P EKO</td>
+    <td class="xl69" align="right" x:num="132685,">132685,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>8</td>
+    <td class="xl68" align="right" x:num="44918,">23/12/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.1.0</td>
+    <td class="xl66" x:str>PENGIRIMAN BERKAS KE ROTEX P IVAN</td>
+    <td class="xl69" align="right" x:num="7500,">7500,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>9</td>
+    <td class="xl68" align="right" x:num="44913,">18/12/2022</td>
+    <td class="xl66" x:str>1.0.0.0</td>
+    <td class="xl66" x:str>1.3.0.0</td>
+    <td class="xl66" x:str>1.3.2.0</td>
+    <td class="xl66" x:str>SPBU 3417404 EXPANDER B2295UKX CARI MATERIAL GROUTING 208 P ALI</td>
+    <td class="xl69" align="right" x:num="100000,">100000,0</td>
+    <td class="xl66" align="right" x:num>208</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>10</td>
+    <td class="xl68" align="right" x:num="44913,">18/12/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.4.0</td>
+    <td class="xl66" x:str>TOP UP MANDIRI 6032982521972560 BELI MATERIAL 208 P ALI</td>
+    <td class="xl69" align="right" x:num="100000,">100000,0</td>
+    <td class="xl66" align="right" x:num>208</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>11</td>
+    <td class="xl68" align="right" x:num="44913,">18/12/2022</td>
+    <td class="xl66" x:str>5.0.0.0</td>
+    <td class="xl66" x:str>5.1.0.0</td>
+    <td class="xl66" x:str>5.1.11.0</td>
+    <td class="xl66" x:str>PAKU TRIPLEK P ALI</td>
+    <td class="xl69" align="right" x:num="6000,">6000,0</td>
+    <td class="xl66" align="right" x:num>208</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>12</td>
+    <td class="xl68" align="right" x:num="44913,">18/12/2022</td>
+    <td class="xl66" x:str>5.0.0.0</td>
+    <td class="xl66" x:str>5.1.0.0</td>
+    <td class="xl66" x:str>5.1.14.0</td>
+    <td class="xl66" x:str>COLDBOND 1 P ALI 208</td>
+    <td class="xl69" align="right" x:num="65000,">65000,0</td>
+    <td class="xl66" align="right" x:num>208</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>13</td>
+    <td class="xl68" align="right" x:num="44913,">18/12/2022</td>
+    <td class="xl66" x:str>5.0.0.0</td>
+    <td class="xl66" x:str>5.1.0.0</td>
+    <td class="xl66" x:str>5.1.14.0</td>
+    <td class="xl66" x:str>4 BT LIST P ALI UNTUK 208</td>
+    <td class="xl69" align="right" x:num="150000,">150000,0</td>
+    <td class="xl66" align="right" x:num>208</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>14</td>
+    <td class="xl68" align="right" x:num="44913,">18/12/2022</td>
+    <td class="xl66" x:str>5.0.0.0</td>
+    <td class="xl66" x:str>5.1.0.0</td>
+    <td class="xl66" x:str>5.1.14.0</td>
+    <td class="xl66" x:str>11 SAK CONBEXTRA GP UNTUK 208 P ALI</td>
+    <td class="xl69" align="right" x:num="880000,">880000,0</td>
+    <td class="xl66" align="right" x:num>208</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="60" style='height:45.00pt;'>
+    <td class="xl66" height="60" align="right" style='height:45.00pt;' x:num>15</td>
+    <td class="xl68" align="right" x:num="44902,">07/12/2022</td>
+    <td class="xl66" x:str>1.0.0.0</td>
+    <td class="xl66" x:str>1.3.0.0</td>
+    <td class="xl66" x:str>1.3.2.0</td>
+    <td class="xl66" x:str>SPBU 3313801 JAZZ B1292PZV OPERASIOINAL MESS KE ZINK POWER ASEMBLY GANTRY 128 P ALI</td>
+    <td class="xl69" align="right" x:num="200000,">200000,0</td>
+    <td class="xl66" align="right" x:num>128</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>16</td>
+    <td class="xl68" align="right" x:num="44902,">07/12/2022</td>
+    <td class="xl66" x:str>1.0.0.0</td>
+    <td class="xl66" x:str>1.3.0.0</td>
+    <td class="xl66" x:str>1.3.2.0</td>
+    <td class="xl66" x:str>SPBU 3415137 RUSH B2853UKZ OPERASIONAL DARI ZINK POWER P ALI</td>
+    <td class="xl69" align="right" x:num="200000,">200000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>17</td>
+    <td class="xl68" align="right" x:num="44902,">07/12/2022</td>
+    <td class="xl66" x:str>2.0.0.0</td>
+    <td class="xl66" x:str>2.2.0.0</td>
+    <td class="xl66" x:str>2.2.4.0</td>
+    <td class="xl66" x:str>TOP UP MANDIRI 0000704099768399 RUSH B2853UKZ OPERASIONAL GT 128 P ALI</td>
+    <td class="xl69" align="right" x:num="100000,">100000,0</td>
+    <td class="xl66" align="right" x:num>128</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>18</td>
+    <td class="xl68" align="right" x:num="44913,">18/12/2022</td>
+    <td class="xl66" x:str>5.0.0.0</td>
+    <td class="xl66" x:str>5.1.0.0</td>
+    <td class="xl66" x:str>5.1.11.0</td>
+    <td class="xl66" x:str>PAKU BETON 20 DI GT 208 P ALI</td>
+    <td class="xl69" align="right" x:num="20000,">20000,0</td>
+    <td class="xl66" align="right" x:num>208</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>19</td>
+    <td class="xl68" align="right" x:num="44913,">18/12/2022</td>
+    <td class="xl66" x:str>5.0.0.0</td>
+    <td class="xl66" x:str>5.1.0.0</td>
+    <td class="xl66" x:str>5.1.11.0</td>
+    <td class="xl66" x:str>PAKU BETON 3 GT 208 P ALI</td>
+    <td class="xl69" align="right" x:num="100000,">100000,0</td>
+    <td class="xl66" align="right" x:num>208</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>20</td>
+    <td class="xl68" align="right" x:num="44913,">18/12/2022</td>
+    <td class="xl66" x:str>5.0.0.0</td>
+    <td class="xl66" x:str>5.1.0.0</td>
+    <td class="xl66" x:str>5.1.14.0</td>
+    <td class="xl66" x:str>SENDOK SEMEN GT 208 P ALI</td>
+    <td class="xl69" align="right" x:num="20000,">20000,0</td>
+    <td class="xl66" align="right" x:num>208</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>21</td>
+    <td class="xl68" align="right" x:num="44905,">10/12/2022</td>
+    <td class="xl66" x:str>3.0.0.0</td>
+    <td class="xl66" x:str>3.2.0.0</td>
+    <td class="xl66" x:str>3.2.2.0</td>
+    <td class="xl66" x:str>KONSUMSI MAKAN SIANG DICIKANDE ALI,RANGGA DAN ARDIN</td>
+    <td class="xl69" align="right" x:num="95000,">95000,0</td>
+    <td class="xl66" x:str>UMUM</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>22</td>
+    <td class="xl68" align="right" x:num="44906,">11/12/2022</td>
+    <td class="xl66" x:str>5.0.0.0</td>
+    <td class="xl66" x:str>5.1.0.0</td>
+    <td class="xl66" x:str>5.1.14.0</td>
+    <td class="xl66" x:str>ROFING 12+20 ASSEMBLY CIKANDE GT 128 P ARIF</td>
+    <td class="xl69" align="right" x:num="18000,">18000,0</td>
+    <td class="xl66" align="right" x:num>128</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>23</td>
+    <td class="xl68" align="right" x:num="44906,">11/12/2022</td>
+    <td class="xl66" x:str>5.0.0.0</td>
+    <td class="xl66" x:str>5.1.0.0</td>
+    <td class="xl66" x:str>5.1.14.0</td>
+    <td class="xl66" x:str>KUNCI ROFING ASSEMBLY DI CIKANDE GT 128 P ARIF</td>
+    <td class="xl69" align="right" x:num="15000,">15000,0</td>
+    <td class="xl66" align="right" x:num>128</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" align="right" style='height:15.00pt;' x:num>24</td>
+    <td class="xl68" align="right" x:num="44906,">11/12/2022</td>
+    <td class="xl66" x:str>5.0.0.0</td>
+    <td class="xl66" x:str>5.1.0.0</td>
+    <td class="xl66" x:str>5.1.14.0</td>
+    <td class="xl66" x:str>10x 16x ASSEMBLY CIKANDE GT 128 P ARIF</td>
+    <td class="xl69" align="right" x:num="20000,">20000,0</td>
+    <td class="xl66" align="right" x:num>128</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;'>
+    <td class="xl66" height="40" align="right" style='height:30.00pt;' x:num>25</td>
+    <td class="xl68" align="right" x:num="44906,">11/12/2022</td>
+    <td class="xl66" x:str>5.0.0.0</td>
+    <td class="xl66" x:str>5.1.0.0</td>
+    <td class="xl66" x:str>5.1.14.0</td>
+    <td class="xl66" x:str>NACHI 3MM U/BOR UNP GT 128 DI AUSTRINDO CIKANDE P ARIF</td>
+    <td class="xl69" align="right" x:num="36000,">36000,0</td>
+    <td class="xl66" align="right" x:num>128</td>
+    <td class="xl66"></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="29" style='width:22;'></td>
+     <td width="80" style='width:60;'></td>
+     <td width="70" style='width:53;'></td>
+     <td width="80" style='width:60;'></td>
+     <td width="288" style='width:216;'></td>
+     <td width="123" style='width:92;'></td>
+     <td width="16" style='width:12;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
